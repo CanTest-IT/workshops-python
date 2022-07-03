@@ -1,4 +1,4 @@
-Event: Workshops JavaScript
+Event: Workshops Python
 Date: 
 Subject: Numbers
 Level: 
