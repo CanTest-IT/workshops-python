@@ -1,6 +1,6 @@
 Event: Workshops Python
 Date: 
-Subject: Numbers
+Subject:
 Level: 
 
 Fb private group: https://www.facebook.com/groups/cantestitremotely
